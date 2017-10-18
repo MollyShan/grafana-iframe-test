@@ -16,7 +16,9 @@
     "url": "https://github.com/MollyShan/grafana-iframe-test/issues"
   },
   "homepage": "https://github.com/MollyShan/grafana-iframe-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "webpack": "^3.7.1"
+  },
   "devDependencies": {
     "grafana": "C:\\code\\go\\src\\github.com\\grafana\\grafana"
   }
